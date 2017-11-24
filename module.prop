@@ -1,0 +1,7 @@
+id=custom_touch_sounds
+name=Custom Touch Sounds
+version=v1.0
+versionCode=1
+author=Adam Miller
+description=Replaces stock touch sounds
+template=1400
